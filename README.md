@@ -1,7 +1,7 @@
 # Facebook_performance_analysis
 Program to visualize and analyze facebook post performance
 
-This program analysis post performance. The three perforformance measures are organic reach, user engagement (total number of likes, comments, and shares), and user clicks (the unique number of individuals who clicked on a link within a post).
+This program analyzes post performance. The three perforformance measures are organic reach, user engagement (total number of likes, comments, and shares), and user clicks (the unique number of individuals who clicked on a link within a post).
 
 The program runs three simple linear regressions to visualize and analyze relationships between these performance variables. 
 
